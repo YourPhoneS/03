@@ -220,6 +220,9 @@
     .productos {
         grid-template-columns: repeat(2, 1fr);
     }
+    span {
+        margin-left: 5px;
+    }
 
 }
 
